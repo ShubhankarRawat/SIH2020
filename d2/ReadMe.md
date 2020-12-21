@@ -33,3 +33,16 @@ Following is the performance evaluation of the model:
 Further for visualization purpose, the first 50 predictions made by the model are plotted with the actual predictions:
 
 ![screenshot](first_50.png)
+
+## SVM:
+Support Vector Machine (SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges.
+Following is the performance evaluation of the model:
+
+<p align="center">
+  <img align="center" src="svm_table.PNG">
+</p>
+
+Further for visualization purpose, the first 50 predictions made by the model are plotted with the actual predictions:
+
+![screenshot](svm_graph.png)
+
