@@ -23,4 +23,12 @@ The hourly energy energy consumption is predicted using a time series and superv
 ## Results
 Various ML models were implemented and tested out of which the two best performing are discussed here:
 
-LSTM:
+### LSTM:
+LSTM is an advanced deep learning model which have shown state-of-the-art performance in time series prediction. 
+Following is the performance evaluation of the model:
+
+![screenshot](table.PNG)
+
+Further for visualization purpose, the first 50 predictions made by the model are plotted with the actual predictions:
+
+![screenshot](first_50.png)
