@@ -10,4 +10,4 @@ The building considered in this case study has numerous zones and hence paramete
 # ML Models
 Predicting the energy consumption of appliances becomes a regression problem. Light Gradient Boosting Machine (LightGBM) with Bayesian Optimization was implemented for predicting the energy consumption of the appliances.
 
-![screenshot](flow_chart.PNG)
+![screenshot](flow_chart.png)
