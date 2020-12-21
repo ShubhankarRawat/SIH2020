@@ -5,7 +5,7 @@ Estimating the energy consumption of a building in advance plays a crucial role 
 [link to dataset](https://www.kaggle.com/robikscube/hourly-energy-consumption)
 
 Data visualization:
-![alt text](https://github.com/ShubhankarRawat/SIH2020/d2/time_series.png)
+![screenshot](time_series.png)
 
 The hourly energy energy consumption is predicted using a time series and supervised machine learning. A time series estimation problem can be converted to a supervised ML problem using some data transformation technique.
 
