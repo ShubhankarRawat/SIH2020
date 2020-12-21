@@ -1,0 +1,14 @@
+Accuracy : 527953.32% 
+bagging_fraction,0.6169204432225447
+boosting_type,dart
+feature_fraction,0.2090609987841896
+lambda_l1,3.6060891969579423
+lambda_l2,4.785979601860258
+learning_rate,0.5760256615552138
+max_depth,973
+min_child_weight,60
+min_split_gain,0.0009440977737658977
+num_iterations,282
+num_leaves,125
+scale_pos_weight,39.0
+
