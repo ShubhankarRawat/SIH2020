@@ -4,10 +4,12 @@ These appliances could vary from fans, chargers, etc. to any other electronic in
 
 Due to the presence of large number of appliances within a building, the amount of data generated becomes huge and it becomes impossible for the operator to manage. In order to resolve this issue Artificial Intelligence techniques, especially Machine Learning, is proposed in this project for fast, efficient, and highly accurate results.
 
-## Case study
+# Case study
 The building considered in this case study has numerous zones and hence parameters like temperature, humidity, wind speed, etc are considered for appliance energy consumption prediction.
 
-# ML Models
-Predicting the energy consumption of appliances becomes a regression problem. Light Gradient Boosting Machine (LightGBM) with Bayesian Optimization was implemented for predicting the energy consumption of the appliances.
+## ML Models
+Predicting the energy consumption of appliances becomes a regression problem. Light Gradient Boosting Machine (LightGBM) with Bayesian Optimization was implemented for predicting the energy consumption of the appliances. The flow chart of the proposed technique is given below:
 
 ![screenshot](flow_chart.png)
+
+
