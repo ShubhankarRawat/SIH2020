@@ -26,7 +26,9 @@ Various ML models were implemented and tested out of which the two best performi
 LSTM is an advanced deep learning model which have shown state-of-the-art performance in time series prediction. 
 Following is the performance evaluation of the model:
 
-<img align="center" src="table.PNG">
+<p align="center">
+  <img align="center" src="table.PNG">
+</p>
 
 Further for visualization purpose, the first 50 predictions made by the model are plotted with the actual predictions:
 
